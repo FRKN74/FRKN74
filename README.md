@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<font color="browm">
+<font color="browm" align="center">
 
 ## Hello, I am furkan, and I present to you the projects I have done in this field, based on the knowledge I have gained while developing myself. Your evaluations are very important to me, so you can send your requests or evaluations to me at this address.
 </font >
@@ -8,19 +7,19 @@
 <br />
 <br />
 <center> 
-<font color="green">
+<font color="green" align="center">
 
 ## Address: furkan74er@gmail.com
 
 #  :computer:  Good work	:hugs:  
 </font>
 <br />
-<font color="grey" size="6">
+<font color="grey" size="6" align="center">
 Coffee :coffee: is how I keep up with `< code />` 
 </font>
 <br />
 <br />
-<img src="https://media.giphy.com/media/Wq4XuPC9gFzR6/giphy.gif" 
+<img align="center" src="https://media.giphy.com/media/Wq4XuPC9gFzR6/giphy.gif" 
 width="480" height="266"></img>
 <br />
 <br />
