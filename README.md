@@ -9,13 +9,13 @@
 <center> 
 <font color="green" align="center">
 
-> Address: furkan74er@gmail.com
+>>  ## Address: furkan74er@gmail.com
 
-#  :computer:  Good work	:hugs:  
+>> ## :computer:  Good work	:hugs:  
 </font>
 <br />
 <font color="grey" size="6">
-**Coffee :coffee: is how I keep up with `< code />` **
+**Coffee :coffee: is how I keep up with `< code />`**
 </font>
 <br />
 <br />
@@ -24,7 +24,7 @@ width="480" height="266"></img>
 <br />
 <br />
 
-# Programming languages ​​i'm interested in
+**Programming languages ​​i'm interested in**
 </center>
 
 
