@@ -9,13 +9,13 @@
 <center> 
 <font color="green" align="center">
 
-## Address: furkan74er@gmail.com
+> Address: furkan74er@gmail.com
 
 #  :computer:  Good work	:hugs:  
 </font>
 <br />
 <font color="grey" size="6">
-Coffee :coffee: is how I keep up with `< code />` 
+**Coffee :coffee: is how I keep up with `< code />` **
 </font>
 <br />
 <br />
