@@ -19,7 +19,7 @@ Coffee :coffee: is how I keep up with `< code />`
 </font>
 <br />
 <br />
-<img src="https://media.giphy.com/media/Wq4XuPC9gFzR6/giphy.gif" 
+<img align="center" src="https://media.giphy.com/media/Wq4XuPC9gFzR6/giphy.gif" 
 width="480" height="266"></img>
 <br />
 <br />
