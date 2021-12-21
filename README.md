@@ -14,12 +14,12 @@
 #  :computer:  Good work	:hugs:  
 </font>
 <br />
-<font color="grey" size="6" align="center">
+<font color="grey" size="6">
 Coffee :coffee: is how I keep up with `< code />` 
 </font>
 <br />
 <br />
-<img align="center" src="https://media.giphy.com/media/Wq4XuPC9gFzR6/giphy.gif" 
+<img src="https://media.giphy.com/media/Wq4XuPC9gFzR6/giphy.gif" 
 width="480" height="266"></img>
 <br />
 <br />
@@ -27,7 +27,7 @@ width="480" height="266"></img>
 # Programming languages ​​i'm interested in
 </center>
 
-
+<center>
 <img float="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
 <img  float="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
 <img  float="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
@@ -50,7 +50,7 @@ width="480" height="266"></img>
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRKN74&layout=compact" >
 </details>
-
+</center>
 <!--
 **FRKN74/frkn74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
