@@ -1,7 +1,7 @@
 
 <font color="browm" align="center">
 
-## Hello, I am furkan, and I present to you the projects I have done in this field, based on the knowledge I have gained while developing myself. Your evaluations are very important to me, so you can send your requests or evaluations to me at this address.
+# Hello, I am furkan, and I present to you the projects I have done in this field, based on the knowledge I have gained while developing myself. Your evaluations are very important to me, so you can send your requests or evaluations to me at this address.
 </font >
 
 <br />
@@ -15,7 +15,7 @@
 </font>
 <br />
 
-**Coffee :coffee: is how I keep up with `< code />`**
+**If you tell me, I will forget, if you teach me, maybe I will remember, but if you include me, I will learn. `< code />`**
 
 <br />
 <br />
