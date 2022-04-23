@@ -11,7 +11,7 @@
 
 >>  ## Address: furkan74er@gmail.com
 
->>  ## [My CV Project](https://furkan-erpay.netlify.app)
+>>  ## [My CV Project](https://furkan-portfolio.netlify.app)
 
 >> ## :computer:  Good work	:hugs:  
 </font>
